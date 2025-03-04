@@ -1,6 +1,6 @@
 # **Database Design Assignment**
 
-## ** Project Overview**
+##  **Project Overview**
 This project is designed to **predict Body Fat Percentage (BFP)** using machine learning and database integration. Users provide inputs such as **Weight, Height, BMI, Gender, and Age**, and the system predicts their **Body Fat Percentage** using a trained model.
 
 The project integrates:
